@@ -1,0 +1,8 @@
+# IDE files
+/ArduinoIDE/ # Arduino test folder(s)
+
+.vscode/ # Visual Studio Code
+
+.vs/ # Visual Studio
+
+.idea/ # CLion
