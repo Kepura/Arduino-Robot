@@ -91,7 +91,7 @@ void loop() {
     } else if ((!leftSensorState) && (rightSensorState)) {
         right();
     } else {
-        stop();
+        back();
     }
   }
 }
