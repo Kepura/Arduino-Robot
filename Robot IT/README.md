@@ -6,6 +6,6 @@ The purpose of the study is to carry out the program under ARDUINO to achieve th
 ### Week 1
 | Planned work | Time | Validation |
 |--------:|----------------------------|:--------------------:|
-|         |                            |                      |
+| Presentation of the project and group training | 30min | ✅ |
 |         |                            | This is a long value |
 |         |                            |                      |
