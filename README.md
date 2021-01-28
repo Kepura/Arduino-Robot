@@ -8,12 +8,13 @@
 ## 1.2 Article 2 : onditions of the event
   The Elegoo® robot modified by the team must complete a course in three successive phases without interruption or intervention:
   
-**Phase N ° 1:** From the starting line the robot must follow a black line 10mm wide laid on the ground.
+**Phase N ° 1:**<br> 
+  From the starting line the robot must follow a black line 10mm wide laid on the ground.
   
-**Phase N ° 2:** 
+**Phase N ° 2:**<br> 
   At the end of the black line, an obstacle is placed (15.5 cm high block - see definition in additional documents) the robot must stop its movement in front of this stud.
   
-**Phase N ° 3:** 
+**Phase N ° 3:** <br>
   On the block is placed a ping pong ball the robot must drop the ball without touching the plot.<br>
   A classification by time will be carried out.<br>
   Each robot error is sanctioned by a penalty of 10 seconds added to the robot path the development platform is in light-colored linoleum, starting and stopping areas indicated   by colored adhesive tape (black).
