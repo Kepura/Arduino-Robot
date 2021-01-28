@@ -23,9 +23,9 @@
   The development platform is in light-colored linoleum, starting and stopping areas indicated by colored adhesive tape (black).
 
 
-##1.3 Article 3 technical conditions
+## 1.3 Article 3 technical conditions
   **The robot must meet the following rules:**
-  ``
+  ```
   - Maximum length 0.3m; Maximum width 0.2m; Maximum height 0.20m.
   - No mass limit.
   - The product must be an original creation (no kit or commercial model). Geared motors are imposed and supplied in the number of four maximum.
@@ -45,4 +45,4 @@
   - The track must be left clean after the passage of each robot.
   - At the end of the competition, the robot must be presented to the jury after each "run" and it must be intact.
   - The robot that leaves the track is penalized in time.
-  ``
+  ```
