@@ -13,5 +13,5 @@ The purpose of the study is to carry out the program under ARDUINO to achieve th
 ### Week 2
 | Planned work | Time | Validation |
 |--------:|----------------------------|:--------------------:|
-| Search for solutions: ideas, design, material, principles. Sketch production commented, in detail<br>**-** *You can come up with anything and let your imagination run wild* <br>**--**You must individually make proposals** | 2h30 | ✅ |
+| Search for solutions: ideas, design, material, principles. Sketch production commented, in detail<br>**-** *You can come up with anything and let your imagination run wild* <br>**--** *You must individually make proposals* | 2h30 | ✅ |
 |  |  |  |
