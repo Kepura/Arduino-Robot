@@ -1,26 +1,22 @@
 # ROBOTIT THE ARDUINO ROBOT CHALLENGE
 
 ## 1.1 Article 1 : conditions of participation
-  The ROBOTIT competition is open to all students of the first STI2D of the Lycée de la MER.
+  The ROBOTIT competition is open to all students of the first STI2D of the Lycée xxxxx.<br>
   Each team is made up of 3, 4 or 5 students.
   
 
 ## 1.2 Article 2 : onditions of the event
-  The Elegoo® robot modified by the team must complete a course in three successive phases without
-  interruption or intervention:
+  The Elegoo® robot modified by the team must complete a course in three successive phases without interruption or intervention:
   
-**Phase N ° 1:** From the starting line the robot must follow a black line 10mm wide laid
-  On the ground.
+**Phase N ° 1:** From the starting line the robot must follow a black line 10mm wide laid on the ground.
   
 **Phase N ° 2:** 
-  At the end of the black line, an obstacle is placed (15.5 cm high block - see definition in
-  additional documents) the robot must stop its movement in front of this stud.
+  At the end of the black line, an obstacle is placed (15.5 cm high block - see definition in additional documents) the robot must stop its movement in front of this stud.
   
 **Phase N ° 3:** 
-  On the block is placed a ping pong ball the robot must drop the ball without touching the plot.
-  A classification by time will be carried out.
-  Each robot error is sanctioned by a penalty of 10 seconds added to the robot path
-  The development platform is in light-colored linoleum, starting and stopping areas indicated by colored adhesive tape (black).
+  On the block is placed a ping pong ball the robot must drop the ball without touching the plot.<br>
+  A classification by time will be carried out.<br>
+  Each robot error is sanctioned by a penalty of 10 seconds added to the robot path the development platform is in light-colored linoleum, starting and stopping areas indicated   by colored adhesive tape (black).
 
 
 ## 1.3 Article 3 : technical conditions
@@ -54,37 +50,30 @@
 
 
 ## 1.4 Article 4 : constitution of the jury
-  The jury is sovereign in its decisions. (Constitution see appendix)
-  It may include representatives of the establishment, representatives of the industry, representatives
-  academics, and competition partners.
+  The jury is sovereign in its decisions. (Constitution see appendix)<br>
+  It may include representatives of the establishment, representatives of the industry, representatives academics, and competition partners.
   
   
 ## 1.5 Article 5 : The Challenges
 
-  📢 Run Challenge (the fastest robot)
-  📢 The winning robot will be determined by time.
-  📢 Technical (the best achieved technical solution)
+  📢 Run Challenge (the fastest robot)<br>
+  📢 The winning robot will be determined by time.<br>
+  📢 Technical (the best achieved technical solution)<br>
 
-  The winning robot will be chosen by the jury based on the quality of the work even if it does not
-  does not work.
+  The winning robot will be chosen by the jury based on the quality of the work even if it does not does not work.
   
   
 ## 1.6 Article 6 : educational approach
-  It is essential that the robot is entirely designed by the students even if the chosen solutions do not
-  are not very functional. The design of a system is a privileged moment of discovery and
-  of knowledge appropriation.
+  It is essential that the robot is entirely designed by the students even if the chosen solutions do not are not very functional. The design of a system is a privileged moment   of discovery and of knowledge appropriation.<br>
   The competition is only there to showcase the work of the students.
   
   
 ## 1.7 Article 7 : Design follow-up.
-  A technical file will be created throughout the course of the project. It will include all
-  written traces of progress as well as computer files. The cost of the Robot will be monitored
-  rigorous from the team and will be presented to the jury.
+  A technical file will be created throughout the course of the project. It will include all written traces of progress as well as computer files. The cost of the Robot will be   monitored rigorous from the team and will be presented to the jury.
   
   
 ## 1.8 Article 8 : The regulations
-  The organization reserves the right to modify the regulations at any time according to the requirements of the
-  good progress of educational progress and the competition.
+  The organization reserves the right to modify the regulations at any time according to the requirements of the good progress of educational progress and the competition.
   
 ## 1.9 Article 9 : The competition
   The meeting will take place at the Lycée de la Mer at the end of the school year.
