@@ -45,4 +45,9 @@
   - The track must be left clean after the passage of each robot.
   - At the end of the competition, the robot must be presented to the jury after each "run" and it must be intact.
   - The robot that leaves the track is penalized in time.
+  - Le robot est « posé » au point de départ, il ne doit pas être poussé ou lancé pour démarrer.
+  - Le « run » ne peut dépasser la durée de 3 minutes.
+  - Seuls les membres de l’équipe peuvent intervenir pendant le passage sur la piste.
+  - Aucune contestation ou pression sur le jury n’est acceptée. En cas d’insistance, le robot est disqualifié.
+            Aucune pièce d’origine du robot Elegoo® ne devra être modifiée.
   ```
