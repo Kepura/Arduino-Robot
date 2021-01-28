@@ -29,7 +29,7 @@
   - Maximum length 0.3m; Maximum width 0.2m; Maximum height 0.20m.
   - No mass limit.
   - The product must be an original creation (no kit or commercial model). Geared motors are imposed and supplied in the number of four maximum.
-  - The high school students will have to manufacture all the parts constituting the apparatus (with the exception of the following: screws, nuts, gears, axles, bearings           springs, elastics, electronic components and electrical, electrical wires, cables).
+  - The high school students will have to manufacture all the parts constituting the apparatus (with the exception of the following: screws, nuts, gears, axles, bearings springs, elastics, electronic components and electrical, electrical wires, cables).
   - If there is an additional electronic circuit, it must be entirely designed and produced by the students on Arduino bases.
   - No participant may intervene on the development board during the event.
   - No connection between the start and the finish will be allowed.
