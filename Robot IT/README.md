@@ -14,5 +14,4 @@ The purpose of the study is to carry out the program under ARDUINO to achieve th
 | Planned work | Time | Validation |
 |--------:|----------------------------|:--------------------:|
 | Search for solutions: ideas, design, material, principles. Sketch production commented <br>**-** *You can come up with anything and let your imagination run wild* <br>**-** *You must individually make proposals* | 2h30 | ✅ |
-| Argued choice of a solution to develop. Distribution of tasks <br>**-** *As a group, you must evaluate the proposed solutions and define the solution you are going to
-work and assign tasks to you.* | 30min | ✅ |
+| Argued choice of a solution to develop. Distribution of tasks <br>**-** *As a group, you must evaluate the proposed solutions and define the solution you are going to work and assign tasks to you.* | 30min | ✅ |
