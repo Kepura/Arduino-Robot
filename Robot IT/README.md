@@ -4,7 +4,12 @@
 The purpose of the study is to carry out the program under ARDUINO to achieve the mission.
 
 ### Week 1
-| Planned work | Time | Validation |
-| Presentation of the project and group training | 30min | ✅ |
-| Study of Robot Elegoo. And functional tests<br>- Robot movement activity.<br>- Line follower activity. | 2h | ✅ |
-| Study of the problem | - Analysis of the need.<br>- Use case diagram.<br>- Requirements diagram (functional specifications) | ✅ |
+| Column1 | This is a long column name | Column3              |                   |
+|--------:|----------------------------|:--------------------:|:------------------|
+|         |                            |                      |                   |
+|         |                            |                      | a value           |
+|         |                            |                      |                   |
+|         |                            | This is a long value | but why?          |
+|         |                            |                      |                   |
+|         |                            |                      | Here is something |
+|         |                            |                      |                   |
