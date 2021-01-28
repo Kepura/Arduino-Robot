@@ -7,9 +7,5 @@ The purpose of the study is to carry out the program under ARDUINO to achieve th
 | Planned work | Time | Validation |
 |--------:|----------------------------|:--------------------:|
 |         |                            |                      |
-|         |                            |                      |
-|         |                            |                      |
 |         |                            | This is a long value |
-|         |                            |                      |
-|         |                            |                      |
 |         |                            |                      |
