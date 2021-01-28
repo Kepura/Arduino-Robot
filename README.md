@@ -77,4 +77,4 @@
   The organization reserves the right to modify the regulations at any time according to the requirements of the good progress of educational progress and the competition.
   
 ## 1.9 Article 9 : The competition
-  The meeting will take place at the Lycée de la Mer at the end of the school year.
+  The meeting will take place at the Lycée xxxx at the end of the school year.
