@@ -19,7 +19,4 @@ The purpose of the study is to carry out the program under ARDUINO to achieve th
 ### Week 3
 | Planned work | Time | Validation |
 |--------:|----------------------------|:--------------------:|
-| Model the arm and develop the servo's movement program <br>**-** *You have to write the algorithm allowing the robot to achieve its mission.
-You must develop the program allowing to answer the solution chosen by the
-group by integrating the travel procedures (see activities of the first week), and
-of plot detection and servo movement in relation to students 1 and 3.* | 3h | ✅~ |
+| Model the arm and develop the servo's movement program <br>**-** *You have to write the algorithm allowing the robot to achieve its mission. You must develop the program allowing to answer the solution chosen by the group by integrating the travel procedures (see activities of the first week), and of plot detection and servo movement in relation to students 1 and 3.* | 3h | ✅~ |
