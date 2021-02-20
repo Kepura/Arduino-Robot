@@ -64,7 +64,9 @@ void loop() {
         }
     }
 }
-void no() {
+
+/*
+void test() {
       for(servoState = 0; servoState <= 180; servoState++) {
       myServo.write(servoState);
       delay(15);
@@ -75,6 +77,8 @@ void no() {
       delay(15);
     }
 }
+*/
+
 /* Fonction assurant l'avancer du robot */
 void forward(int Power) {
     digitalWrite(ENA, HIGH);
