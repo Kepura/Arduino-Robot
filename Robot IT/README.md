@@ -19,9 +19,4 @@ The purpose of the study is to carry out the program under ARDUINO to achieve th
 ### Week 3
 | Planned work | Time | Validation |
 |--------:|----------------------------|:--------------------:|
-| Model the arm and develop the servo's movement program You need to model your solution. Carry out the studies, choices and simulations allowing you to
-to validate your system.
-Verify the availability of the equipment and make orders if the need is validated by your
-teacher.
-Watch the video about the servo programming under ARDUINO and develop the
-program to respond to the solution chosen by the group. | 3h | ~✅~ |
+| Model the arm and develop the servo's movement program You need to model your solution. Carry out the studies, choices and simulations allowing you toto validate your system. Verify the availability of the equipment and make orders if the need is validated by your teacher. Watch the video about the servo programming under ARDUINO and develop the program to respond to the solution chosen by the group. | 3h | ~✅~ |
