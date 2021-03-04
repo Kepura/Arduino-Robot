@@ -14,13 +14,15 @@ const int centerSensor = 4;
 const int rightSensor = 2;
 int servoState = 0;
 
+int seuil = 65;
+
 /* Déclaration des variables booleans déstinées à la vérification de l'état des capteurs*/
 bool leftSensorState;
 bool centerSensorState;
 bool rightSensorState;
 
-const byte TRIGGER = 5; // broche TRIGGER
-const byte ECHO = 4; // broche ECHO
+const byte TRIGGER = A5; // broche TRIGGER
+const byte ECHO = A4; // broche ECHO
 const unsigned long MEASURE_TIMEOUT = 25000UL; // 25ms = 8m à 340m/s
 const float SOUND_SPEED = 340.0 / 1000;
 const boolean plot = false;
@@ -29,7 +31,7 @@ Servo myServo;
 
 /* Fonction setup basique à ARDUINO */
 void setup() {
-    Serial.begin(115200);
+    Serial.begin(9600);
 
     pinMode(IN1, OUTPUT);
     pinMode(IN2, OUTPUT);
@@ -56,19 +58,19 @@ void loop() {
   digitalWrite(TRIGGER, LOW);
   
   long measure = pulseIn(ECHO, HIGH, MEASURE_TIMEOUT);
-  
   float distance_mm = measure / 2.0 * SOUND_SPEED;
-  Serial.println("Distance: ");
-  Serial.print(distance_mm);
-  Serial.print("cm, ");
-  
-  if (distance_mm > 65) {
+
+  Serial.println(distance_mm);
+
+  if(distance_mm > seuil) {
     lineFollower();
   } else {
     Stop();
+  }
+
+  if(distance_mm <= seuil) {
     servo(180);
   }
-  delay(300);
 }
 
 void lineFollower() {
